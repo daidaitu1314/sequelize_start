@@ -1,0 +1,17 @@
+{
+  "name": "sequelize_start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mysql2": "^1.3.4",
+    "sequelize": "^4.1.0"
+  }
+}
